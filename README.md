@@ -1,5 +1,3 @@
-![Static Badge](https://img.shields.io/badge/javascript-eb8f34) ![Static Badge](https://img.shields.io/badge/html-6ced55) ![Static Badge](https://img.shields.io/badge/css-5573ed)
-
 # Vertex A11y
 
 A Chrome extension that scans web pages for accessibility issues and provides actionable insights to help developers build more inclusive websites.
