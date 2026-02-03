@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "motion": "^12.23.22"
+  },
+  "name": "vertex_a11y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "content.js",
+  "devDependencies": {
+    "esbuild": "^0.25.10"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karandeol-26/vertex_A11y.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karandeol-26/vertex_A11y/issues"
+  },
+  "homepage": "https://github.com/karandeol-26/vertex_A11y#readme"
+}
