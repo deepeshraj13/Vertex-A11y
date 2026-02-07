@@ -64,7 +64,7 @@ Vertex A11y provides developers with an intuitive, real-time accessibility scann
 - **DOM Analysis**: Comprehensive element inspection and path tracking
 
 ### AI Integration
-- **OpenAI GPT-4**: Intelligent issue explanations and fix recommendations
+- **Gemini**: Intelligent issue explanations and fix recommendations
 - **Contextual Analysis**: AI understands specific accessibility contexts
 - **Educational Content**: Generated guidance tailored to each issue type
 
